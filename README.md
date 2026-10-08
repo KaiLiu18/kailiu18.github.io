@@ -26,7 +26,7 @@ python3 -m http.server 8000
 
 ## GitHub 仓库
 
-源码保存在 [KaiLiu18/KaiLiu](https://github.com/KaiLiu18/KaiLiu)。`index.html`、`assets/` 和 `.nojekyll` 位于仓库根目录，GitHub Pages 可以直接发布，无需构建。
+源码保存在 [KaiLiu18/kailiu18.github.io](https://github.com/KaiLiu18/kailiu18.github.io)。`index.html`、`assets/` 和 `.nojekyll` 位于仓库根目录，GitHub Pages 可以直接发布，无需构建。
 
 ## 发布到 GitHub Pages
 
@@ -37,7 +37,7 @@ python3 -m http.server 8000
 3. 选择分支 **main** 和目录 **/(root)**，点击 **Save**。
 4. 在 Pages 设置中查看实际发布地址。
 
-此仓库是项目站点仓库，发布地址通常包含 `/KaiLiu/` 路径；以 Pages 设置中显示的地址为准。
+此仓库是用户主页仓库，发布地址为 <https://kailiu18.github.io/>。
 
 ## 修改主页
 
