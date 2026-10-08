@@ -10,7 +10,7 @@
 | --- | --- |
 | `index.html` | 首页内容、论文列表和链接 |
 | `assets/css/style.css` | 页面样式和移动端布局 |
-| `assets/images/` | 个人照片和论文图片，包含原始照片备份 |
+| `assets/images/` | 主页照片和论文图片 |
 | `.nojekyll` | 让 GitHub Pages 直接发布静态文件 |
 | `.gitignore` | 排除本地临时文件 |
 
