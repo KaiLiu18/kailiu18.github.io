@@ -17,6 +17,7 @@ h1 { margin: 0 0 1.2rem; font-size: 2rem; line-height: 1.3; font-weight: 400; te
 .chinese-name { font-family: "Noto Sans CJK SC", "Microsoft YaHei", "PingFang SC", sans-serif; font-size: 1.75rem; }
 p { margin: 0 0 .9rem; }
 .biography p:last-child { margin-bottom: 0; }
+.contact-links { display: flex; flex-wrap: wrap; gap: .25rem 1.25rem; margin-top: 1.1rem; }
 .portrait { margin: 0; }
 .portrait img { display: block; width: 100%; height: auto; border-radius: 3px; }
 section { margin-top: 2rem; }
