@@ -17,7 +17,9 @@ h1 { margin: 0 0 1.2rem; font-size: 2rem; line-height: 1.3; font-weight: 400; te
 .chinese-name { font-family: "Noto Sans CJK SC", "Microsoft YaHei", "PingFang SC", sans-serif; font-size: 1.75rem; }
 p { margin: 0 0 .9rem; }
 .biography p:last-child { margin-bottom: 0; }
-.contact-links { display: flex; flex-wrap: wrap; gap: .25rem 1.25rem; margin-top: 1.1rem; }
+.contact-links { display: flex; flex-wrap: wrap; gap: .25rem 1.5rem; margin-top: 1rem; }
+.contact-links a { display: inline-flex; align-items: center; gap: .45rem; min-height: 2.5rem; font-size: .9375rem; }
+.contact-links svg { display: block; width: 1.125rem; height: 1.125rem; flex: none; }
 .portrait { margin: 0; }
 .portrait img { display: block; width: 100%; height: auto; border-radius: 3px; }
 section { margin-top: 2rem; }
